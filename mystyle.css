@@ -1,1 +1,17 @@
-document.title = 'Photographer Finder'
+body{
+
+}
+.inputBox{
+    border-radius: 10px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.description{
+    font-style:italic;
+    style: "black";
+    font-family: 'helvetica neue', helvetica, sans-serif; 
+}
+
+
